@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "es2015",
+        "outDir": "./build",
+        "module": "commonjs",
+        "strict": true,
+        "esModuleInterop": true
+    }
+}
+
